@@ -1,0 +1,5 @@
+- Натсройте подключение к базе данных в .env файле
+- `run` php artisan config:cache
+- `run` php artisan storage:link
+- `run` php artisan migrate --seed
+- Перейдите на http://example.com/demo-data для установки demo-данных
